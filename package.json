@@ -1,0 +1,15 @@
+{
+  "name": "april17sec_1",
+  "version": "1.0.0",
+  "description": "Minimal Node.js tutorial HTTP server built with Express.js, exposing GET / (Hello world) and GET /good-evening (Good evening).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
